@@ -4,20 +4,7 @@ references: [Austin Bicycle](https://data.world/acertz/austin-bicycle-crashes-fr
 "I’m an avid bike commuter and I recently moved to Austin. I reviewed all the bike-related crashes from Texas DOT’s Crash Records Information System."
 
 ## Content & Data Description
-
-
-| fields    | Name                                                  |
-| --------- | ----------------------------------------------------- |
-| sbp       | Systolic blood pressure                               |
-| tobacco   | Cumulative tobacco consumption, in kg                 |
-| ldl       | Low-density lipoprotein cholesterol                   |
-| adiposity | Adipose tissue concentration                          |
-| famhist   | Family history of heart disease (1=Present, 0=Absent) |
-| typea     | Score on test designed to measure type-A behavior     |
-| obesity   | Obesity                                               |
-| alcohol   | Current alcohol consumption                           |
-| age       | Age of subject                                        |
-| chd       | Coronary heart disease at baseline; 1=Yes 0=No        |
+The scope of data is in the city Austin(county Travis) whose population is above 250000. The person type filed all are "pedalcyclist". 
 
 ## Sources
 Texas DOT’s Crash Records Information System
