@@ -1,25 +1,25 @@
-crash_report,person,road_cond,geo_info
-Crash Death Count,Person Helmet,Speed Limit,County
-Crash Incapacitating Injury Count,Person Type,Street Name,Latitude
-Crash Non-incapacitating Injury Count,,Street Number,Longitude
-Crash Not Injured Count,,Surface Condition,Intersecting Street Name
-Crash Possible Injury Count,,Traffic Control Type,Intersection Related
-Crash Severity,,Weather Condition,Population Group
-Crash Time,,Construction Zone Flag,City
-Crash Total Injury Count,,Construction Zone Workers Present Flag,
-Crash Unknown Injury Count,,Right of Way Usual Width,
-Crash Year,,Road Class,
-Physical Feature 1,,Roadway Alignment,
-Property Damages,,Roadway Part,
-Manner of Collision,,Roadway Relation,
-Other Factor,,Roadway Type,
-$1000 Damage to Any One Person's Property,,Private Drive Flag,
-Crash ID,,Light Condition,
-Agency,,Highway System,
-First Harmful Event,,Number of Lanes,
-Case ID,,Outside Shoulder Width on Divided Highway,
-,,Average Daily Traffic Amount,
-,,Average Daily Traffic Year,
-,,Adjusted Average Daily Traffic Amount,
-,,Active School Zone Flag,
-,,At Intersection Flag,
+crash_report,person,road_cond,geo_info,day
+Crash Death Count,Person Helmet,Speed Limit,County,Day of Week
+Crash Incapacitating Injury Count,Person Type,Street Name,Latitude,
+Crash Non-incapacitating Injury Count,,Street Number,Longitude,
+Crash Not Injured Count,,Surface Condition,Intersecting Street Name,
+Crash Possible Injury Count,,Traffic Control Type,Intersection Related,
+Crash Severity,,Weather Condition,Population Group,
+Crash Time,,Construction Zone Flag,City,
+Crash Total Injury Count,,Construction Zone Workers Present Flag,,
+Crash Unknown Injury Count,,Right of Way Usual Width,,
+Crash Year,,Road Class,,
+Physical Feature 1,,Roadway Alignment,,
+Property Damages,,Roadway Part,,
+Manner of Collision,,Roadway Relation,,
+Other Factor,,Roadway Type,,
+$1000 Damage to Any One Person's Property,,Private Drive Flag,,
+Crash ID,,Light Condition,,
+Agency,,Highway System,,
+First Harmful Event,,Number of Lanes,,
+Case ID,,Outside Shoulder Width on Divided Highway,,
+,,Average Daily Traffic Amount,,
+,,Average Daily Traffic Year,,
+,,Adjusted Average Daily Traffic Amount,,
+,,Active School Zone Flag,,
+,,At Intersection Flag,,
