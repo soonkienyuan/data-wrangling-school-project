@@ -1,5 +1,8 @@
 # Synopsis
+Data Source -  https://data.world/acertz/austin-bicycle-crashes-from-2010-2017/workspace/project-summary?agentid=acertz&datasetid=austin-bicycle-crashes-from-2010-2017
+
 ## Context
+
 "I’m an avid bike commuter and I recently moved to Austin. I reviewed all the bike-related crashes from Texas DOT’s Crash Records Information System."
 
 This is the quote as in the source of data.
@@ -39,4 +42,13 @@ Texas DOT’s Crash Records Information System
 
 ## Reference
 
- Austin Bicycle - https://data.world/acertz/austin-bicycle-crashes-from-2010-2017/workspace/project-summary?agentid=acertz&datasetid=austin-bicycle-crashes-from-2010-2017
+
+
+https://seaborn.pydata.org/index.html
+https://medium.com/@polanitzer/correlation-in-python-find-statistical-relationship-between-variables-bfeb323c16d6
+https://www.pluralsight.com/guides/finding-relationships-data-with-pythonhttps://matplotlib.org/3.5.2/index.html
+https://pandas.pydata.org/docs/reference/index.html
+https://stackoverflow.com/questions/53233228/plot-latitude-longitude-from-csv-in-python-3-6
+https://plotly.com/graphing-libraries/
+https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/
+https://analyticsindiamag.com/tutorial-on-missingno-python-tool-to-visualize-missing-values/
